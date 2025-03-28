@@ -1,0 +1,14 @@
+
+{
+  "nodes": [
+    {
+      "id": 1,
+      "type": "Load Image from Dir (bm)",
+      "inputs": {
+        "directory": "input/images",
+        "file_number": 0,
+        "sort_by": "Date (Newest First)"
+      }
+    }
+  ]
+}
